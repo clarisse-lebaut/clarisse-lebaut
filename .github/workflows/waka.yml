@@ -1,0 +1,17 @@
+name: Waka Readme
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'  # Exécute toutes les 4 heures
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.MY_SECRET_DATA }}
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
