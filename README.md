@@ -18,8 +18,16 @@
 
 ![Clarisse's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarisse-lebaut&hide=stars,prs,issues,contribs&show_icons=true&count_private=true&hide_rank=true&theme=catppuccin-latte)
 
+#### And more stats
 
-#### More stats !
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=clarisse-lebaut&theme=catppuccin-latte" alt="mystreak"/>
+
+#### WakaTime Stats
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+
+
 
 
