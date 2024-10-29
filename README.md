@@ -6,7 +6,7 @@
 ## Hi there 👋
 
 #### You can see me on :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://[![LinkedIn](https://img.shields.io/badge/LinkedIn-bleu?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profile/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://[![LinkedIn](https://img.shields.io/badge/LinkedIn-bleu?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clarisse-lebaut/))
 
 ## GitHub Stats
 
