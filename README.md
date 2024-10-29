@@ -10,13 +10,14 @@
 
 ## GitHub Stats
 
+#### Top langagues
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clarisse-lebaut&layout=compact&theme=catppuccin-latte)](https://github.com/clarisse-lebaut)
+
 #### Commit 
 
 ![Clarisse's GitHub stats](https://github-readme-stats.vercel.app/api?username=clarisse-lebaut&hide=stars,prs,issues,contribs&show_icons=true&count_private=true&hide_rank=true&theme=catppuccin-latte)
 
-#### Top langagues
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clarisse-lebaut&layout=compact&theme=catppuccin-latte)](https://github.com/clarisse-lebaut)
 
 #### More stats !
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=clarisse-lebaut&theme=catppuccin-latte" alt="mystreak"/>
