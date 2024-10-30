@@ -42,6 +42,7 @@ Aujourd'hui, je suis étudiante en 2ème année de Bachelor Développement Web e
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=clarisse-lebaut&theme=catppuccin-latte" alt="mystreak"/>
 
+<br>
 
 ## 📝 Quelques projets 
 - [Parc National des Calanques](lien vers le projet 1)
