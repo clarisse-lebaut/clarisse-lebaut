@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2  # Nécessaire pour cloner le dépôt
+        uses: actions/checkout@v3  # Nécessaire pour cloner le dépôt
 
       - name: Update WakaTime Stats
         uses: anmol098/waka-readme-stats@master
