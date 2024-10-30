@@ -23,8 +23,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=clarisse-lebaut&theme=catppuccin-latte" alt="mystreak"/>
 
 #### WakaTime Stats
-<!--START_SECTION:waka-->
 
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 
