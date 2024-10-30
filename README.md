@@ -5,7 +5,7 @@
 
 ## Hi there, my name is Clarisse ! 👋
 
-## ☰ En quelques lignes...
+## ☰ En quelques lignes ...
 En Janvier 2024 je ne pouvais dire ce qu'était le HMTL. Si si, je vous jure.
 Aujourd'hui, je suis étudiante en 2ème année de Bachelor Développement Web et je reste ébaubi par le simple fait de taper des lignes de code sur mon ordinateur !
 
@@ -22,7 +22,7 @@ Aujourd'hui, je suis étudiante en 2ème année de Bachelor Développement Web e
 ...
 <i>Oh que oui je vais en ajouter !</i>
 
-#### ╰┈➤ You can see me on :
+#### Je suis aussi ici :
 - 💼 [LinkedIn](https://www.linkedin.com/in/clarisse-lebaut/)
 - 🌐 [Portfolio](https://clarisse-le-baut.students-laplateforme.io/portfolio/index.html)
 
