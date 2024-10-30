@@ -13,7 +13,7 @@ Aujourd'hui, je suis étudiante en 2ème année de Bachelor Développement Web e
 - 🌱 J'apprends actuellement <b>SAAS</b>.
 - 🚀 Je suis enthousiaste à l'idée d'explorer de nouvelles technologies et frameworks dans le domaine du développement front-end.
 
-#### 🙃 Mes centres d'intêrets ?
+#### Mes centres d'intêrets ?
 ![Your Badge 1](https://img.shields.io/badge/DoctorWho-blue)
 ![Your Badge 2](https://img.shields.io/badge/Musique-white)
 ![Your Badge 3](https://img.shields.io/badge/Couleurs-gray)
@@ -25,6 +25,8 @@ Aujourd'hui, je suis étudiante en 2ème année de Bachelor Développement Web e
 #### ╰┈➤ You can see me on :
 - 💼 [LinkedIn](https://www.linkedin.com/in/clarisse-lebaut/)
 - 🌐 [Portfolio](https://clarisse-le-baut.students-laplateforme.io/portfolio/index.html)
+
+<br>
 
 ## 📟 GitHub Stats : Des Widgets !
 
@@ -41,7 +43,7 @@ Aujourd'hui, je suis étudiante en 2ème année de Bachelor Développement Web e
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=clarisse-lebaut&theme=catppuccin-latte" alt="mystreak"/>
 
 
-## Quelques projets 
+## 📝 Quelques projets 
 - [Parc National des Calanques](lien vers le projet 1)
     - Une courte description de ce projet est à venir !
 - [My Git Doc](lien vers le projet 2)
