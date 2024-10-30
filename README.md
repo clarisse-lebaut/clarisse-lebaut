@@ -5,7 +5,7 @@
 
 ## Hi there, my name is Clarisse ! 👋
 
-## En quelques lignes...
+## ☰ En quelques lignes...
 En Janvier 2024 je ne pouvais dire ce qu'était le HMTL. Si si, je vous jure.
 Aujourd'hui, je suis étudiante en 2ème année de Bachelor Développement Web et je reste ébaubi par le simple fait de taper des lignes de code sur mon ordinateur !
 
@@ -13,7 +13,7 @@ Aujourd'hui, je suis étudiante en 2ème année de Bachelor Développement Web e
 - 🌱 J'apprends actuellement <b>SAAS</b>.
 - 🚀 Je suis enthousiaste à l'idée d'explorer de nouvelles technologies et frameworks dans le domaine du développement front-end.
 
-#### Mes centres d'intêrets ?
+#### 🙃 Mes centres d'intêrets ?
 ![Your Badge 1](https://img.shields.io/badge/DoctorWho-blue)
 ![Your Badge 2](https://img.shields.io/badge/Musique-white)
 ![Your Badge 3](https://img.shields.io/badge/Couleurs-gray)
@@ -22,11 +22,11 @@ Aujourd'hui, je suis étudiante en 2ème année de Bachelor Développement Web e
 ...
 <i>Oh que oui je vais en ajouter !</i>
 
-#### You can see me on :
+#### ╰┈➤ You can see me on :
 - 💼 [LinkedIn](https://www.linkedin.com/in/clarisse-lebaut/)
 - 🌐 [Portfolio](https://clarisse-le-baut.students-laplateforme.io/portfolio/index.html)
 
-## GitHub Stats : Des Widgets !
+## 📟 GitHub Stats : Des Widgets !
 
 #### Top langagues
 
