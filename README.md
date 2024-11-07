@@ -6,8 +6,8 @@
 ## Hi there, my name is Clarisse ! 👋
 
 ## ☰ En quelques lignes ...
-En Janvier 2024 je ne pouvais dire ce qu'était le HMTL. Si si, je vous jure.
-Aujourd'hui, je suis étudiante en 2ème année de Bachelor Développement Web et je reste ébaubi par le simple fait de taper des lignes de code sur mon ordinateur !
+En Janvier 2024, j'étais incappable de dire ce qu'était le HTML. Si, si, je vous jure ! 
+Aujourd'hui, je suis étudiante en 2ᵉ année de Bachelor en Développement Web, et je reste ébaubi par le simple fait de taper des lignes de code sur mon ordinateur !
 
 - 🔭 Je travaille actuellement sur <i>Parc National des Calanques</i>.
 - 🌱 J'apprends actuellement <b>SAAS</b>.
