@@ -10,7 +10,7 @@ En Janvier 2024, j'étais incappable de dire ce qu'était le HTML. Si, si, je vo
 Aujourd'hui, je suis étudiante en 2ᵉ année de Bachelor en Développement Web, et je reste ébaubi par le simple fait de taper des lignes de code sur mon ordinateur !
 
 - 🔭 Je travaille actuellement sur <i>Parc National des Calanques</i>.
-- 🌱 J'apprends actuellement <b>SAAS</b>.
+- 🌱 J'apprends actuellement <b>SASS</b>.
 - 🚀 Je suis enthousiaste à l'idée d'explorer de nouvelles technologies et frameworks dans le domaine du développement front-end.
 
 #### Mes centres d'intêrets ?
