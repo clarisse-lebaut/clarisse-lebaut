@@ -18,7 +18,7 @@ Aujourd'hui, je suis étudiante en 2ᵉ année de Bachelor en Développement Web
 ![Your Badge 2](https://img.shields.io/badge/Musique-white)
 ![Your Badge 3](https://img.shields.io/badge/Couleurs-gray)
 ![Your Badge 4](https://img.shields.io/badge/Informatique-green)
-![Your Badge 5](https://img.shields.io/badge/Jeuxdesociété-yellow)
+![Your Badge 5](https://img.shields.io/badge/Jeux_de_société-yellow)
 ...
 <i>Oh que oui je vais en ajouter !</i>
 
