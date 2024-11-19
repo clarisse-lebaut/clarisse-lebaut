@@ -14,7 +14,7 @@ Aujourd'hui, je suis étudiante en 2ᵉ année de Bachelor en Développement Web
 - 🚀 Je suis enthousiaste à l'idée d'explorer de nouvelles technologies et frameworks dans le domaine du développement front-end.
 
 #### Mes centres d'intêrets ?
-![Your Badge 1](https://img.shields.io/badge/DoctorWho-blue)
+![Your Badge 1](https://img.shields.io/badge/Doctor_Who-blue)
 ![Your Badge 2](https://img.shields.io/badge/Musique-white)
 ![Your Badge 3](https://img.shields.io/badge/Couleurs-gray)
 ![Your Badge 4](https://img.shields.io/badge/Informatique-green)
