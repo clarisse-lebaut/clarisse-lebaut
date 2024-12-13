@@ -39,14 +39,14 @@ Aujourd'hui, je suis étudiante en 2ᵉ année de Bachelor en Développement Web
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clarisse-lebaut&layout=compact&theme=catppuccin-latte)](https://github.com/clarisse-lebaut)
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
 ##### Back-End
 [![My Skills](https://skillicons.dev/icons?i=php,mysql)](https://skillicons.dev)
+
 ##### Front-End
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
-#### Préprocesseur
+##### Préprocesseur
 [![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)
 
 ##### Library
@@ -70,7 +70,7 @@ Aujourd'hui, je suis étudiante en 2ᵉ année de Bachelor en Développement Web
  
 ## Pour aller plus loin...
 
-[![My Skills](https://skillicons.dev/icons?i=ableton,au,ai,ps,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ableton,au,ai,ps,pr,py)](https://skillicons.dev)
 
 Faire preuve de logique c'est fantastique, alors j'utilise d'autre outils pour d'autre projet (création de jeu de société, impression 3D, compositions musicale, ...)
 
