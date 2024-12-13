@@ -11,8 +11,7 @@ Aujourd'hui, je suis étudiante en 2ᵉ année de Bachelor en Développement Web
 
 - 🔭 Je travaille actuellement sur <i>Financial_Flow</i>.
 - 🌱 J'apprends actuellement <b>SASS</b>.
-- 🌱 Je me replonge dans <b>REACT.JS</b>.
-- 🚀 Je suis enthousiaste à l'idée d'explorer de nouvelles technologies et frameworks dans le domaine du développement front-end.
+- 🚀 Je me replonge dans <b>REACT.JS</b>.
 
 #### Tools
 
@@ -59,11 +58,11 @@ Aujourd'hui, je suis étudiante en 2ᵉ année de Bachelor en Développement Web
 ## 📝 Quelques projets 
 - 🌐 [Portfolio](https://clarisse-le-baut.students-laplateforme.io/portfolio/index.html)
     - Une courte description de ce projet est à venir !
-- [Parc National des Calanques](lien vers le projet 1)
+- [Parc National des Calanques](lien vers ce projet)
     - Une courte description de ce projet est à venir !
-- [My Git Doc](lien vers le projet 2)
+- [My Git Doc](lien vers ce projet)
     - Une courte description de ce projet est à venir !
-- [WhatchMe](lien vers le projet 3)
+- [WhatchMe](lien vers ce projet)
     - Une courte description de ce projet est à venir !
  
 ## Pour aller plus loin...
