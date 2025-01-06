@@ -20,9 +20,10 @@ Aujourd'hui, je suis étudiante en 2ᵉ année de Bachelor en Développement Web
 #### Mes centres d'intêrets ?
 ![Your Badge 1](https://img.shields.io/badge/Doctor_Who-blue)
 ![Your Badge 2](https://img.shields.io/badge/Musique-white)
-![Your Badge 3](https://img.shields.io/badge/Couleurs-gray)
-![Your Badge 4](https://img.shields.io/badge/Informatique-green)
+![Your Badge 3](https://img.shields.io/badge/Informatique-green)
+![Your Badge 4](https://img.shields.io/badge/Couleurs-gray)
 ![Your Badge 5](https://img.shields.io/badge/Jeux_de_société-yellow)
+![Your Badge 6](https://img.shields.io/badge/Classements-black)
 ...
 <i>Oh que oui je vais en ajouter !</i>
 
