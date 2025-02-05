@@ -5,6 +5,7 @@
 ## Hi there, my name is Clarisse ! 👋
 
 ## ☰ En quelques lignes ...
+
 En Janvier 2024, j'étais incapable de dire ce qu'était le HTML. Si, si, je vous jure ! 
 Aujourd'hui, je suis étudiante en 2ᵉ année de Bachelor en Développement Web, et je reste ébaubi par le simple fait de taper des lignes de code sur mon ordinateur !
 
@@ -30,7 +31,6 @@ Aujourd'hui, je suis étudiante en 2ᵉ année de Bachelor en Développement Web
 ...
 <i>Oh que oui je vais en ajouter !</i>
 
-
 #### Je suis aussi ici :
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/clarisse-lebaut/)
 
@@ -39,11 +39,11 @@ Aujourd'hui, je suis étudiante en 2ᵉ année de Bachelor en Développement Web
 | Nom du projet | Descprtion | Une visite ? |
 | - | - | - |
 | Portfolio | Une courte description de ce projet est à venir ! | 🌐[Portfolio](https://clarisse-le-baut.students-laplateforme.io/portfolio/index.html) |
-| My Git Doc | Une courte description de ce projet est à venir ! | 🌐[My Git Doc](https://clarisse-le-baut.students-laplateforme.io/portfolio/index.html) |
-| WatchMe | Une courte description de ce projet est à venir ! | 🌐[WatchMe](https://clarisse-le-baut.students-laplateforme.io/portfolio/index.html) |
+| My Git Doc | Une courte description de ce projet est à venir ! | 🌐[My Git Doc](mettre le lien) |
+| WatchMe | Une courte description de ce projet est à venir ! | 🌐[WatchMe](mettre le lien) |
  
-## Pour aller plus loin...
-
-[![My Skills](https://skillicons.dev/icons?i=ableton,au,ai,ps,pr,py)](https://skillicons.dev)
+## 🚀 Pour aller plus loin 
 
 Faire preuve de logique c'est fantastique, alors j'utilise d'autre outils pour d'autre projet (création de jeu de société, impression 3D, compositions musicale, ...)
+
+[![My Skills](https://skillicons.dev/icons?i=ableton,au,ai,ps,pr,py)](https://skillicons.dev)
