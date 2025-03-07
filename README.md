@@ -15,11 +15,11 @@ Aujourd'hui, je suis étudiante en 2ᵉ année de Bachelor en Développement Web
 
 #### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=apple,windows,figma,notion,postman,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,windows,figma,notion,postman,github,git,obsidian)](https://skillicons.dev)
 
 #### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,react,sass,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,nodejs,react,sass,bootstrap)](https://skillicons.dev)
 
 #### Mes centres d'intêrets ?
 ![Your Badge 1](https://img.shields.io/badge/Doctor_Who-blue)
