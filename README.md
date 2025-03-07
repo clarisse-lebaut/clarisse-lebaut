@@ -2,7 +2,7 @@
     <img src=./bannière.png/>
 </div>
 
-## Hi there, my name is Clarisse ! 👋
+## Salut, je m'appelle Clarisse ! 👋
 
 ## ☰ En quelques lignes ...
 
@@ -34,14 +34,29 @@ Aujourd'hui, je suis étudiante en 2ᵉ année de Bachelor en Développement Web
 #### Je suis aussi ici :
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/clarisse-lebaut/)
 
+<br>
+
 ## 📝 Quelques projets
+
+| 👉 Les projets en ligne |
+| - |
 
 | Nom du projet | Descprtion | Une visite ? |
 | - | - | - |
 | Portfolio | Une courte description de ce projet est à venir ! | 🌐[Portfolio](https://clarisse-le-baut.students-laplateforme.io/portfolio/index.html) |
-| My Git Doc | Une courte description de ce projet est à venir ! | 🌐[My Git Doc](mettre le lien) |
-| WatchMe | Une courte description de ce projet est à venir ! | 🌐[WatchMe](mettre le lien) |
- 
+
+<br>
+
+| ⏳ Petit teaser des projets en préparation |
+| - |
+
+| Nom du projet | Descprtion | Une visite ? |
+| - | - | - |
+| My Git Doc | Une courte description de ce projet est à venir ! | 🌐[My Git Doc] |
+| WatchMe | Une courte description de ce projet est à venir ! | 🌐[WatchMe] |
+
+<br>
+
 ## 🚀 Pour aller plus loin 
 
 Faire preuve de logique c'est fantastique, alors j'utilise d'autre outils pour d'autre projet (création de jeu de société, impression 3D, compositions musicale, ...)
