@@ -43,7 +43,7 @@ Aujourd'hui, je suis étudiante en 2ᵉ année de Bachelor en Développement Web
 
 | Nom du projet | Descprtion | Une visite ? |
 | - | - | - |
-| Portfolio | Une courte description de ce projet est à venir ! | 🌐[Portfolio](https://clarisse-le-baut.students-laplateforme.io/portfolio/index.html) |
+| Portfolio | Premier site en ligne ! Qui l'eut crut ? Pas de fioritures, promis. J'espère que vous apprécierez le tour ! | 🌐[Portfolio](https://clarisse-le-baut.students-laplateforme.io/portfolio/index.html) |
 
 <br>
 
