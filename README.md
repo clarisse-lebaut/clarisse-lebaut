@@ -9,7 +9,7 @@
 En Janvier 2024, j'étais incapable de dire ce qu'était le HTML. Si, si, je vous jure ! 
 Aujourd'hui, je suis étudiante en 2ᵉ année de Bachelor en Développement Web, et je reste ébaubi par le simple fait de taper des lignes de code sur mon ordinateur !
 
-- 🔭 Je travaille actuellement sur les structures MVC.
+- 🔭 Je travaille actuellement sur <b>CookBook</b>.
 - 🌱 J'apprends <b>SASS</b>.
 - 🚀 Je me replonge dans <b>React</b>.
 
